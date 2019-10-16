@@ -1,2 +1,2 @@
 # perfect-buffalo
-General purpose, learning to code
+Just another hello-world repository
